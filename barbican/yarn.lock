@@ -5610,6 +5610,10 @@ ncname@1.0.x:
   dependencies:
     xml-char-classes "^1.0.0"
 
+nebular-icons@1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/nebular-icons/-/nebular-icons-1.0.6.tgz#6a944d3102e318fdb1e071c1aad18cbc1c069e51"
+
 negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
@@ -7327,6 +7331,10 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
     hash-base "^2.0.0"
     inherits "^2.0.1"
 
+roboto-fontface@0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/roboto-fontface/-/roboto-fontface-0.9.0.tgz#4829eeffc0502f09b88c7f3980fa3b304eda4c49"
+
 run-async@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/run-async/-/run-async-0.1.0.tgz#c8ad4a5e110661e402a7d21b530e009f25f8e389"
@@ -7747,6 +7755,10 @@ sntp@2.x.x:
   resolved "https://registry.yarnpkg.com/sntp/-/sntp-2.1.0.tgz#2c6cec14fedc2222739caf9b5c3d85d1cc5a2cc8"
   dependencies:
     hoek "4.x.x"
+
+socicon@^3.0.5:
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/socicon/-/socicon-3.0.5.tgz#bfa06fcf7f2b6f3cdc3944337742358e9e050b6d"
 
 socket.io-adapter@0.5.0:
   version "0.5.0"
@@ -8519,6 +8531,10 @@ type-is@~1.6.15:
 typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
+
+typeface-exo@0.0.54:
+  version "0.0.54"
+  resolved "https://registry.yarnpkg.com/typeface-exo/-/typeface-exo-0.0.54.tgz#7b26cd26b6e360c77740ab382b71a99313c2537b"
 
 typescript@2.6.2, typescript@~2.6.2:
   version "2.6.2"
