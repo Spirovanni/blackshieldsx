@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f700c9f-77b5-4a17-afd2-4b097304b4ba" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/blackshieldsx.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/barbican/package.json" afterPath="$PROJECT_DIR$/barbican/package.json" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/resources/config/application-dev.yml" afterPath="$PROJECT_DIR$/barbican/src/main/resources/config/application-dev.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +17,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/barbican/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="31" />
+            <state relative-caret-position="154">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -216,12 +212,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520134181286</updated>
-      <workItem from="1520134212897" duration="3579000" />
+      <workItem from="1520134212897" duration="4469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3579000" />
+    <option name="totallyTimeSpent" value="4469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1927" y="23" width="1268" height="777" extended-state="0" />
@@ -339,8 +335,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/barbican/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="154">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="24" />
           <folding />
         </state>
       </provider>
