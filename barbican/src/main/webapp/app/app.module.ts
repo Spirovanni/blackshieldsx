@@ -1,4 +1,5 @@
 import './vendor.ts';
+import './typings.d.ts';
 
 import { NgModule, Injector } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
@@ -12,7 +13,7 @@ import { ErrorHandlerInterceptor } from './blocks/interceptor/errorhandler.inter
 import { NotificationInterceptor } from './blocks/interceptor/notification.interceptor';
 import { BarbicanSharedModule, UserRouteAccessService } from './shared';
 import { BarbicanAppRoutingModule} from './app-routing.module';
-import { BarbicanHomeModule } from './home/home.module';
+import { BarbicanHomeModule } from './home';
 import { BarbicanAdminModule } from './admin/admin.module';
 import { BarbicanAccountModule } from './account/account.module';
 import { BarbicanEntityModule } from './entities/entity.module';
