@@ -16,10 +16,45 @@ import {
     HasAnyAuthorityDirective,
 } from './';
 
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+
+import {
+    NbActionsModule,
+    NbCardModule,
+    NbLayoutModule,
+    NbMenuModule,
+    NbRouteTabsetModule,
+    NbSearchModule,
+    NbSidebarModule,
+    NbTabsetModule,
+    NbThemeModule,
+    NbUserModule,
+    NbCheckboxModule,
+    NbPopoverModule,
+    NbContextMenuModule,
+} from '@nebular/theme';
+
+const NB_MODULES = [
+    NbCardModule,
+    NbLayoutModule,
+    NbTabsetModule,
+    NbRouteTabsetModule,
+    NbMenuModule,
+    NbUserModule,
+    NbActionsModule,
+    NbSearchModule,
+    NbSidebarModule,
+    NbCheckboxModule,
+    NbPopoverModule,
+    NbContextMenuModule,
+    NgbModule
+];
+
 @NgModule({
     imports: [
         BarbicanSharedLibsModule,
-        BarbicanSharedCommonModule
+        BarbicanSharedCommonModule,
+        ...NB_MODULES
     ],
     declarations: [
         JhiLoginModalComponent,
@@ -41,7 +76,8 @@ import {
         BarbicanSharedCommonModule,
         JhiLoginModalComponent,
         HasAnyAuthorityDirective,
-        DatePipe
+        DatePipe,
+        ...NB_MODULES,
     ],
     schemas: [CUSTOM_ELEMENTS_SCHEMA]
 
