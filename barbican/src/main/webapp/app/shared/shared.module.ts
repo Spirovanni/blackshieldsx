@@ -34,6 +34,9 @@ import {
     NbContextMenuModule,
 } from '@nebular/theme';
 
+import { DEFAULT_THEME } from '../../content/scss/theme/styles/theme.default';
+import { COSMIC_THEME } from '../../content/scss/theme/styles/theme.cosmic';
+
 const NB_MODULES = [
     NbCardModule,
     NbLayoutModule,
