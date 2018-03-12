@@ -29,12 +29,17 @@ import {
     ErrorComponent
 } from './layouts';
 
+import { CoreModule } from './shared/@core/core.module';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+
 @NgModule({
     imports: [
         BrowserModule,
         BrowserAnimationsModule,
         BarbicanAppRoutingModule,
         Ng2Webstorage.forRoot({ prefix: 'jhi', separator: '-'}),
+        CoreModule.forRoot(),
+        NgbModule.forRoot(),
         BarbicanSharedModule,
         BarbicanHomeModule,
         BarbicanAdminModule,
