@@ -29,7 +29,8 @@ import {
     ErrorComponent
 } from './layouts';
 
-import { CoreModule } from './shared/@core/core.module';
+import { CoreModule } from './shared';
+import { ThemeModule } from './shared';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({

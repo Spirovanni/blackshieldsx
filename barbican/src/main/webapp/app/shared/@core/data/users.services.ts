@@ -5,7 +5,7 @@ import 'rxjs/add/observable/of';
 let counter = 0;
 
 @Injectable()
-export class UserService {
+export class UserServices {
 
     private users = {
         nick: { name: 'Nick Jones', picture: 'assets/images/nick.png' },
