@@ -27,7 +27,6 @@ import {
     NbSearchModule,
     NbSidebarModule,
     NbTabsetModule,
-    NbThemeModule,
     NbUserModule,
     NbCheckboxModule,
     NbPopoverModule,
