@@ -39,6 +39,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
         BrowserAnimationsModule,
         BarbicanAppRoutingModule,
         Ng2Webstorage.forRoot({ prefix: 'jhi', separator: '-'}),
+        ThemeModule.forRoot(),
         CoreModule.forRoot(),
         NgbModule.forRoot(),
         BarbicanSharedModule,

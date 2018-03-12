@@ -42,10 +42,10 @@ const NB_CORE_PROVIDERS = [
         },
         forms: {
             login: {
-                socialLinks: socialLinks,
+                socialLinks: ('{socialLinks}'),
             },
             register: {
-                socialLinks: socialLinks,
+                socialLinks: ('{socialLinks}'),
             },
         },
     }).providers,
@@ -83,10 +83,6 @@ const NB_CORE_PROVIDERS = [
     declarations: [],
 })
 export class CoreModule {
-    constructor(@Optional() @SkipSelf() parentModule: CoreModule) {
-        throwIfAlreadyLoaded(parentModule, 'CoreModule');
-    }
-
     static forRoot(): ModuleWithProviders {
         return <ModuleWithProviders>{
             ngModule: CoreModule,
@@ -95,4 +91,9 @@ export class CoreModule {
             ],
         };
     }
+
+    constructor(@Optional() @SkipSelf() parentModule: CoreModule) {
+        throwIfAlreadyLoaded(parentModule, 'CoreModule');
+    }
+
 }
