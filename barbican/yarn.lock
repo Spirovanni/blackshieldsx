@@ -173,6 +173,10 @@
   version "2.0.0-rc.6"
   resolved "https://registry.yarnpkg.com/@nebular/auth/-/auth-2.0.0-rc.6.tgz#878a409058020c980bf752e8282d58a376cb544e"
 
+"@nebular/security@2.0.0-rc.6":
+  version "2.0.0-rc.6"
+  resolved "https://registry.yarnpkg.com/@nebular/security/-/security-2.0.0-rc.6.tgz#ac7c09b9f6c91690fe9ec4d22fd6922b8a5cfb04"
+
 "@nebular/theme@2.0.0-rc.6":
   version "2.0.0-rc.6"
   resolved "https://registry.yarnpkg.com/@nebular/theme/-/theme-2.0.0-rc.6.tgz#3d479822d242ebf44843a3dbef4477ea282e2b69"
