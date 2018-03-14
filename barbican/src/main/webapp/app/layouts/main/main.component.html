@@ -1,6 +1,7 @@
 <nb-layout [center]="layout.id === 'center-column'" [windowMode]="">
     <nb-layout-header fixed>
         <jhi-page-ribbon></jhi-page-ribbon>
+        <ngx-header [position]="sidebar.id === 'left' ? 'normal': 'inverse'"></ngx-header>
         <router-outlet name="navbar"></router-outlet>
     </nb-layout-header>
 
