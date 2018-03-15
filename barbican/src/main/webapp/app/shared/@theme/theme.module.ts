@@ -28,6 +28,12 @@ import {
     TinyMCEComponent,
 } from './components';
 
+import { CapitalizePipe, PluralPipe, RoundPipe, TimingPipe } from './pipes';
+import {
+    OneColumnLayoutComponent,
+    ThreeColumnsLayoutComponent,
+    TwoColumnsLayoutComponent,
+} from './layouts';
 import { DEFAULT_THEME } from './../../../content/scss/theme/styles/theme.default';
 import { COSMIC_THEME } from './../../../content/scss/theme/styles/theme.cosmic';
 
@@ -54,7 +60,17 @@ const COMPONENTS = [
     ThemeSwitcherComponent,
     SearchInputComponent,
     ThemeSettingsComponent,
-    TinyMCEComponent
+    TinyMCEComponent,
+    OneColumnLayoutComponent,
+    ThreeColumnsLayoutComponent,
+    TwoColumnsLayoutComponent,
+];
+
+const PIPES = [
+    CapitalizePipe,
+    PluralPipe,
+    RoundPipe,
+    TimingPipe,
 ];
 
 const NB_THEME_PROVIDERS = [
@@ -70,8 +86,8 @@ const NB_THEME_PROVIDERS = [
 
 @NgModule({
     imports: [...BASE_MODULES, ...NB_MODULES],
-    exports: [...BASE_MODULES, ...NB_MODULES, ...COMPONENTS],
-    declarations: [...COMPONENTS],
+    exports: [...BASE_MODULES, ...NB_MODULES, ...COMPONENTS, ...PIPES],
+    declarations: [...COMPONENTS, ...PIPES],
 })
 export class ThemeModule {
     static forRoot(): ModuleWithProviders {
