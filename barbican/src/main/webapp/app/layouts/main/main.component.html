@@ -1,10 +1,10 @@
 <nb-layout [center]="layout.id === 'center-column'" [windowMode]="">
+
     <jhi-page-ribbon></jhi-page-ribbon>
     <nb-layout-header fixed>
         <jhi-navbar [position]="sidebar.id === 'left' ? 'normal': 'inverse'">
             <router-outlet name="navbar"></router-outlet>
         </jhi-navbar>
-        <!--<router-outlet name="navbar"></router-outlet>-->
     </nb-layout-header>
 
     <nb-sidebar class="menu-sidebar"
@@ -13,10 +13,10 @@
                 [right]="sidebar.id === 'right'">
         <nb-sidebar-header>
             <a href="#" class="btn btn-hero-success main-btn">
-                <i class="ion ion-social-github"></i> <span>Support Us</span>
+                <i class="ion ion-social-github"></i> <span>Black Shields</span>
             </a>
         </nb-sidebar-header>
-        <ng-content select="nb-menu"></ng-content>
+            <nb-menu [items]="menu"></nb-menu>
     </nb-sidebar>
 
     <nb-layout-column class="main-content">

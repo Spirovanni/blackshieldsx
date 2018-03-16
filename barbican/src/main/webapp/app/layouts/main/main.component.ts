@@ -1,5 +1,6 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Router, ActivatedRouteSnapshot, NavigationEnd } from '@angular/router';
+import { MENU_ITEMS } from './../pages-menu';
 
 import {
     NbMediaBreakpoint,
@@ -25,6 +26,7 @@ import 'rxjs/add/operator/delay';
 })
 export class JhiMainComponent implements OnInit, OnDestroy {
 
+    menu = MENU_ITEMS;
     subMenu: NbMenuItem[] = [
         {
             title: 'PAGE LEVEL MENU',
