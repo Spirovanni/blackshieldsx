@@ -1,12 +1,14 @@
-<nav class="navbar navbar-dark navbar-expand-md jh-navbar">
-    <div class="jh-logo-container float-left">
+<nav class="header-container navbar-dark navbar-expand-md jh-navbar"
+     [class.left]="position === 'normal'"
+     [class.right]="position === 'inverse'">
+    <div class="logo-container">
         <a class="jh-navbar-toggler d-lg-none float-right" href="javascript:void(0);" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" (click)="toggleNavbar()">
-            <i class="fa fa-bars"></i>
         </a>
         <a class="navbar-brand logo float-left" routerLink="/" (click)="collapseNavbar()">
             <span class="logo-img"></span>
             <span jhiTranslate="global.title" class="navbar-title">Barbican</span> <span class="navbar-version">{{version}}</span>
         </a>
+        <a (click)="toggleSidebar()" href="#" class="navigation"><i class="nb-menu"></i></a>
     </div>
     <div class="navbar-collapse collapse" id="navbarResponsive" [ngbCollapse]="isNavbarCollapsed" [ngSwitch]="isAuthenticated()">
         <ul class="navbar-nav ml-auto">

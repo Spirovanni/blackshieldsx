@@ -21,7 +21,7 @@ Navbar
         flex-direction: row-reverse;
     }
 
-    .logo-containter {
+    .logo-container {
         display: flex;
         align-items: center;
     }
@@ -50,7 +50,6 @@ Navbar
             padding: 0 nb-theme(padding);
             font-size: 1.75rem;
             font-weight: nb-theme(font-weight-bolder);
-            border-left: 1px solid nb-theme(separator);
             white-space: nowrap;
 
             span {
@@ -60,8 +59,9 @@ Navbar
     }
 
     .toggle-layout /deep/ a {
-        display: block;
+        display: inline;
         text-decoration: none;
+        border-left: 1px solid nb-theme(separator);
         line-height: 1;
 
         i {
@@ -181,7 +181,7 @@ Logo styles
 ========================================================================== */
 .navbar-brand {
     &.logo {
-        padding: 5px 15px;
+        padding: 35px 25px;
         .logo-img {
             height: 45px;
             width: 70px;
@@ -189,6 +189,14 @@ Logo styles
             vertical-align: middle;
             background: url("../../../content/images/logo-jhipster.png") no-repeat center center;
             background-size: contain;
+            padding: 0 nb-theme(padding);
+            font-size: 1.75rem;
+            font-weight: nb-theme(font-weight-bolder);
+            white-space: nowrap;
+
+            span {
+                font-weight: nb-theme(font-weight-normal);
+            }
         }
     }
 }

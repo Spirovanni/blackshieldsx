@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f700c9f-77b5-4a17-afd2-4b097304b4ba" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/index.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/index.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.ts" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +14,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-233">
+            <state relative-caret-position="90">
               <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -99,9 +130,7 @@
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/components/theme-settings/theme-settings.component.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/components/theme-switcher/theme-switcher.component.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@core/core.module.ts" />
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.ts" />
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/pipes/capitalize.pipe.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/pipes/index.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/pipes/round.pipe.ts" />
@@ -119,6 +148,8 @@
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/index.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" />
       </list>
     </option>
   </component>
@@ -133,8 +164,7 @@
     <handled-path value="$PROJECT_DIR$/registry/node_modules" />
     <handled-path value="$PROJECT_DIR$/registry/target/aot/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1920" />
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1269" />
     <option name="height" value="777" />
@@ -164,6 +194,104 @@
               <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
               <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="navbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -182,7 +310,7 @@
     <property name="ignore_missing_gitignore" value="true" />
     <property name="SearchEverywhereHistoryKey" value="jhi-navbar&#9;null&#9;null&#10;NbThemeService&#9;null&#9;null&#10;NbLayoutComponent&#9;null&#9;null&#10;NbTheme&#9;null&#9;null" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.ts&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/pages-menu.ts&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/main/main.component.html" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.ts&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/pages-menu.ts&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/navbar/navbar.scss&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/main/main.component.html" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -298,15 +426,15 @@
       <workItem from="1520657169009" duration="365000" />
       <workItem from="1520709438765" duration="20361000" />
       <workItem from="1520744154766" duration="2916000" />
-      <workItem from="1520819366834" duration="26079000" />
+      <workItem from="1520819366834" duration="33726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75265000" />
+    <option name="totallyTimeSpent" value="82912000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="23" width="1269" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1269" height="777" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -322,7 +450,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28850856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1581092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -638,14 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/registry/src/main/webapp/app/layouts/navbar/navbar.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -660,24 +780,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#78#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="59" lean-forward="false" selection-start-line="0" selection-start-column="59" selection-end-line="0" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#57#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -874,8 +976,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233">
+        <state relative-caret-position="90">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
           <folding />
         </state>
       </provider>
