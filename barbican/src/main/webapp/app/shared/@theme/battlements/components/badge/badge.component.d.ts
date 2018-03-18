@@ -30,7 +30,7 @@
  * badge-warning-bg-color:
  * badge-danger-bg-color:
  */
-export declare class NbBadgeComponent {
+export declare class BsBadgeComponent {
     static readonly TOP_LEFT: string;
     static readonly TOP_RIGHT: string;
     static readonly BOTTOM_LEFT: string;

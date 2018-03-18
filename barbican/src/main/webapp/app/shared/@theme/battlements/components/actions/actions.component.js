@@ -8,7 +8,7 @@ import { convertToBoolProperty } from '../helpers';
 /**
  * Action item, display a link with an icon, or any other content provided instead.
  */
-var NbActionComponent = /** @class */ (function () {
+var BsActionComponent = /** @class */ (function () {
     function NbActionComponent() {
         this.disabledValue = false;
     }
@@ -23,15 +23,15 @@ var NbActionComponent = /** @class */ (function () {
         enumerable: true,
         configurable: true
     });
-    NbActionComponent.decorators = [
+    BsActionComponent.decorators = [
         { type: Component, args: [{
                     selector: 'nb-action',
                     template: "\n    <a class=\"icon-container\" href=\"#\" *ngIf=\"icon; else showContent\" (click)=\"$event.preventDefault()\">\n      <i class=\"control-icon {{ icon }}\"></i>\n    </a>\n    <ng-template #showContent>\n      <ng-content></ng-content>\n    </ng-template>\n    <nb-badge *ngIf=\"badgeText\" [text]=\"badgeText\" [status]=\"badgeStatus\" [position]=\"badgePosition\"></nb-badge>\n  ",
                 },] },
     ];
     /** @nocollapse */
-    NbActionComponent.ctorParameters = function () { return []; };
-    NbActionComponent.propDecorators = {
+    BsActionComponent.ctorParameters = function () { return []; };
+    BsActionComponent.propDecorators = {
         "disabledValue": [{ type: HostBinding, args: ['class.disabled',] },],
         "icon": [{ type: Input },],
         "disabled": [{ type: Input },],
@@ -39,9 +39,9 @@ var NbActionComponent = /** @class */ (function () {
         "badgeStatus": [{ type: Input },],
         "badgePosition": [{ type: Input },],
     };
-    return NbActionComponent;
+    return BsActionComponent;
 }());
-export { NbActionComponent };
+export { BsActionComponent };
 /**
  * Shows a horizontal list of actions, available in multiple sizes
  * Aligns items vertically.

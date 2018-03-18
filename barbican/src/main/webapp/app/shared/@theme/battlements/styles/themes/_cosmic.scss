@@ -142,4 +142,4 @@ $theme: (
 );
 
 // register the theme
-$nb-themes: nb-register-theme($theme, cosmic, default);
+$bs-themes: bs-register-theme($theme, cosmic, default);

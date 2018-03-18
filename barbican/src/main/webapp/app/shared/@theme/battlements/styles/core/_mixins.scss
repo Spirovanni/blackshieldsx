@@ -4,7 +4,7 @@
  * Licensed under the MIT License. See License.txt in the project root for license information.
  */
 
-@mixin nb-scrollbars($fg, $bg, $size, $border-radius: $size / 2) {
+@mixin bs-scrollbars($fg, $bg, $size, $border-radius: $size / 2) {
   ::-webkit-scrollbar {
     width: $size;
     height: $size;
@@ -42,11 +42,11 @@
                                                      GradientType=1); /* IE6-9 fallback on horizontal gradient */
 }
 
-@mixin nb-right-gradient($left-color, $right-color) {
+@mixin bs-right-gradient($left-color, $right-color) {
   background-image: linear-gradient(to right, $left-color, $right-color);
 }
 
-@mixin nb-headings($from: 1, $to: 6) {
+@mixin bs-headings($from: 1, $to: 6) {
   @for $i from $from through $to {
     h#{$i} {
       margin: 0;

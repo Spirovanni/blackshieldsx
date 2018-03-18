@@ -1,7 +1,7 @@
 /**
  * Action item, display a link with an icon, or any other content provided instead.
  */
-export declare class NbActionComponent {
+export declare class BsActionComponent {
     disabledValue: boolean;
     /**
      * Icon class to display

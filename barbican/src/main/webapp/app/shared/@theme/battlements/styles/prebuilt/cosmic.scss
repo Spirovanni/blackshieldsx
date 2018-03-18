@@ -1,7 +1,7 @@
 @import '../all';
 
-$nb-enabled-themes: (cosmic);
+$bs-enabled-themes: (cosmic);
 
-@include nb-install() {
-  @include nb-theme-global();
+@include bs-install() {
+  @include bs-theme-global();
 };

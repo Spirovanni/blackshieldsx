@@ -36,17 +36,17 @@ import { Component, Input } from '@angular/core';
  * badge-warning-bg-color:
  * badge-danger-bg-color:
  */
-var NbBadgeComponent = /** @class */ (function () {
-    function NbBadgeComponent() {
-        this.positionClass = NbBadgeComponent.TOP_RIGHT;
-        this.colorClass = NbBadgeComponent.STATUS_PRIMARY;
+var BsBadgeComponent = /** @class */ (function () {
+    function BsBadgeComponent() {
+        this.positionClass = BsBadgeComponent.TOP_RIGHT;
+        this.colorClass = BsBadgeComponent.STATUS_PRIMARY;
         /**
            * Text to display
            * @type string
            */
         this.text = '';
     }
-    Object.defineProperty(NbBadgeComponent.prototype, "position", {
+    Object.defineProperty(BsBadgeComponent.prototype, "position", {
         set: /**
            * Badge position
            *
@@ -62,7 +62,7 @@ var NbBadgeComponent = /** @class */ (function () {
         enumerable: true,
         configurable: true
     });
-    Object.defineProperty(NbBadgeComponent.prototype, "status", {
+    Object.defineProperty(BsBadgeComponent.prototype, "status", {
         set: /**
            * Badge status (adds specific styles):
            * 'primary', 'info', 'success', 'warning', 'danger'
@@ -77,30 +77,30 @@ var NbBadgeComponent = /** @class */ (function () {
         enumerable: true,
         configurable: true
     });
-    NbBadgeComponent.TOP_LEFT = 'top left';
-    NbBadgeComponent.TOP_RIGHT = 'top right';
-    NbBadgeComponent.BOTTOM_LEFT = 'bottom left';
-    NbBadgeComponent.BOTTOM_RIGHT = 'bottom right';
-    NbBadgeComponent.STATUS_PRIMARY = 'primary';
-    NbBadgeComponent.STATUS_INFO = 'info';
-    NbBadgeComponent.STATUS_SUCCESS = 'success';
-    NbBadgeComponent.STATUS_WARNING = 'warning';
-    NbBadgeComponent.STATUS_DANGER = 'danger';
-    NbBadgeComponent.decorators = [
+    BsBadgeComponent.TOP_LEFT = 'top left';
+    BsBadgeComponent.TOP_RIGHT = 'top right';
+    BsBadgeComponent.BOTTOM_LEFT = 'bottom left';
+    BsBadgeComponent.BOTTOM_RIGHT = 'bottom right';
+    BsBadgeComponent.STATUS_PRIMARY = 'primary';
+    BsBadgeComponent.STATUS_INFO = 'info';
+    BsBadgeComponent.STATUS_SUCCESS = 'success';
+    BsBadgeComponent.STATUS_WARNING = 'warning';
+    BsBadgeComponent.STATUS_DANGER = 'danger';
+    BsBadgeComponent.decorators = [
         { type: Component, args: [{
-                    selector: 'nb-badge',
-                    styles: [".nb-badge{position:absolute;padding:0.25em 0.4em;font-size:75%;font-weight:700;line-height:1;text-align:center;white-space:nowrap;vertical-align:baseline;border-radius:0.25rem}.nb-badge.top{top:0}.nb-badge.right{right:0}.nb-badge.bottom{bottom:0}.nb-badge.left{left:0} "],
-                    template: "\n    <span class=\"nb-badge {{positionClass}} nb-badge-{{colorClass}}\">{{text}}</span>\n  ",
+                    selector: 'bs-badge',
+                    styles: [".bs-badge{position:absolute;padding:0.25em 0.4em;font-size:75%;font-weight:700;line-height:1;text-align:center;white-space:nowrap;vertical-align:baseline;border-radius:0.25rem}.bs-badge.top{top:0}.bs-badge.right{right:0}.bs-badge.bottom{bottom:0}.bs-badge.left{left:0} "],
+                    template: "\n    <span class=\"bs-badge {{positionClass}} bs-badge-{{colorClass}}\">{{text}}</span>\n  ",
                 },] },
     ];
     /** @nocollapse */
-    NbBadgeComponent.ctorParameters = function () { return []; };
-    NbBadgeComponent.propDecorators = {
+    BsBadgeComponent.ctorParameters = function () { return []; };
+    BsBadgeComponent.propDecorators = {
         "text": [{ type: Input },],
         "position": [{ type: Input },],
         "status": [{ type: Input },],
     };
-    return NbBadgeComponent;
+    return BsBadgeComponent;
 }());
-export { NbBadgeComponent };
+export { BsBadgeComponent };
 //# sourceMappingURL=badge.component.js.map

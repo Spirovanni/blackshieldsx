@@ -20,21 +20,21 @@
 @import '../../components/popover/popover.component.theme';
 @import '../../components/context-menu/context-menu.component.theme';
 
-@mixin nb-theme-components() {
+@mixin bs-theme-components() {
 
-  @include nb-layout-theme();
-  @include nb-sidebar-theme();
-  @include nb-card-theme();
-  @include nd-reveal-card-theme();
-  @include nd-flip-card-theme();
-  @include nb-tabset-theme();
-  @include nb-route-tabset-theme();
-  @include nb-menu-theme();
-  @include nb-user-theme();
-  @include nb-actions-theme();
-  @include nb-search-theme();
-  @include nb-checkbox-theme();
-  @include nb-badge-theme();
-  @include nb-popover-theme();
-  @include nb-context-menu-theme();
+  @include bs-layout-theme();
+  @include bs-sidebar-theme();
+  @include bs-card-theme();
+  @include bs-reveal-card-theme();
+  @include bs-flip-card-theme();
+  @include bs-tabset-theme();
+  @include bs-route-tabset-theme();
+  @include bs-menu-theme();
+  @include bs-user-theme();
+  @include bs-actions-theme();
+  @include bs-search-theme();
+  @include bs-checkbox-theme();
+  @include bs-badge-theme();
+  @include bs-popover-theme();
+  @include bs-context-menu-theme();
 }

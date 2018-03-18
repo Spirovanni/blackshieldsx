@@ -4,15 +4,15 @@
  * Licensed under the MIT License. See License.txt in the project root for license information.
  */
 
-@mixin nb-actions-theme() {
+@mixin bs-actions-theme() {
   nb-actions {
 
-    font-size: nb-theme(actions-font-size);
-    font-family: nb-theme(actions-font-family);
-    line-height: nb-theme(actions-line-height);
+    font-size: bs-theme(actions-font-size);
+    font-family: bs-theme(actions-font-family);
+    line-height: bs-theme(actions-line-height);
 
     nb-action {
-      height: nb-theme(actions-size-small);
+      height: bs-theme(actions-size-small);
       padding: 0 nb-theme(actions-padding);
 
       a.icon-container {

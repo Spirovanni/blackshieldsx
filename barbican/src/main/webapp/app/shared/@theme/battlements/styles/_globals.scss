@@ -7,13 +7,13 @@
 @import 'global/components';
 @import 'global/overrides';
 
-@mixin nb-theme-global() {
-  @include nb-theme-components();
-  @include nb-theme-overrides();
+@mixin bs-theme-global() {
+  @include bs-theme-components();
+  @include bs-theme-overrides();
 }
 
-@mixin nb-install() {
-  @include nb-install-global() {
+@mixin bs-install() {
+  @include bs-install-global() {
     @content;
   }
 }

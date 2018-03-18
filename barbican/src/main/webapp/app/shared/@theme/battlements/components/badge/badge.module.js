@@ -4,19 +4,19 @@
  * Licensed under the MIT License. See License.txt in the project root for license information.
  */
 import { NgModule } from '@angular/core';
-import { NbBadgeComponent } from './badge.component';
-var NbBadgeModule = /** @class */ (function () {
-    function NbBadgeModule() {
+import { BsBadgeComponent } from './badge.component';
+var BsBadgeModule = /** @class */ (function () {
+    function BsBadgeModule() {
     }
-    NbBadgeModule.decorators = [
-        { type: NgModule, args: [{
-                    exports: [NbBadgeComponent],
-                    declarations: [NbBadgeComponent],
+    BsBadgeModule.decorators = [
+        { type: BsModule, args: [{
+                    exports: [BsBadgeComponent],
+                    declarations: [BsBadgeComponent],
                 },] },
     ];
     /** @nocollapse */
-    NbBadgeModule.ctorParameters = function () { return []; };
-    return NbBadgeModule;
+    BsBadgeModule.ctorParameters = function () { return []; };
+    return BsBadgeModule;
 }());
-export { NbBadgeModule };
+export { BsBadgeModule };
 //# sourceMappingURL=badge.module.js.map

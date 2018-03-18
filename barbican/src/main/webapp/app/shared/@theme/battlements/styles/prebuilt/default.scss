@@ -1,7 +1,7 @@
 @import '../all';
 
-$nb-enabled-themes: (default);
+$bs-enabled-themes: (default);
 
-@include nb-install() {
-  @include nb-theme-global();
+@include bs-install() {
+  @include bs-theme-global();
 };
