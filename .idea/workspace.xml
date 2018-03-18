@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f700c9f-77b5-4a17-afd2-4b097304b4ba" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.module.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.module.d.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.d.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.js" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.js" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.metadata.json" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.metadata.json" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/_badge.component.theme.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/_badge.component.theme.scss" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.css" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.css" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/breakpoints.service.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/breakpoints.service.d.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/breakpoints.service.js" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/breakpoints.service.js" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/breakpoints.service.metadata.json" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/breakpoints.service.metadata.json" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/color.helper.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/color.helper.d.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/color.helper.js" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/color.helper.js" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/color.helper.metadata.json" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/color.helper.metadata.json" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes-registry.service.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes-registry.service.d.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.d.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.js" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.js" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.d.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.js" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.js" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.metadata.json" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.metadata.json" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.d.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.js.map" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.js.map" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/spinner.service.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/spinner.service.d.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/theme.service.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/theme.service.d.ts" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/theme.service.metadata.json" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/theme.service.metadata.json" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/_theming.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/_theming.scss" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/core/_mixins.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/core/_mixins.scss" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/_overrides.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_bootstrap.theme.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_bootstrap.theme.scss" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_buttons.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_buttons.scss" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/typography/_typography.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/typography/_typography.scss" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/themes/_default.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/themes/_default.scss" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/_card.component.theme.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/_card.component.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/index.d.ts" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/index.d.ts" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/themes.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/themes.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -120,18 +93,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="js-themes-registry.service.d.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes-registry.service.d.ts">
+      <file leaf-file-name="cosmic.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/prebuilt/cosmic.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="138">
+              <caret line="0" column="12999" lean-forward="false" selection-start-line="0" selection-start-column="12999" selection-end-line="0" selection-end-column="12999" />
+              <folding>
+                <element signature="e#134081#139154#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cosmic.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/prebuilt/cosmic.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.options.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.js">
+      <file leaf-file-name="_cosmic.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/themes/_cosmic.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2009">
+              <caret line="141" column="2" lean-forward="true" selection-start-line="141" selection-start-column="2" selection-end-line="141" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_default.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/themes/_default.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6125">
+              <caret line="423" column="2" lean-forward="true" selection-start-line="423" selection-start-column="2" selection-end-line="423" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/theme.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-485">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="themes.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/themes.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-253">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.default.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/theme.default.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -140,31 +167,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.options.js.map" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.js.map">
-          <provider editor-type-id="sourcemapFileViewerProvider">
-            <state />
-          </provider>
+      <file leaf-file-name="theme.cosmic.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/theme.cosmic.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="382" lean-forward="false" selection-start-line="0" selection-start-column="382" selection-end-line="0" selection-end-column="382" />
+            <state relative-caret-position="290">
+              <caret line="72" column="26" lean-forward="true" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.theme.d.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cosmic.theme.metadata.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.metadata.json">
+      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -173,51 +187,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cosmic.theme.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cosmic.theme.d.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme.options.d.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.theme.metadata.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.metadata.json">
+      <file leaf-file-name="pace.theme.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/pace.theme.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="2862" lean-forward="true" selection-start-line="0" selection-start-column="2862" selection-end-line="0" selection-end-column="2862" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.theme.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -236,9 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.ts" />
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html" />
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.component.d.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.component.js" />
@@ -287,6 +258,9 @@
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.js" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.js" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.d.ts" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/index.d.ts" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/_card.component.theme.scss" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/themes.scss" />
       </list>
     </option>
   </component>
@@ -301,7 +275,7 @@
     <handled-path value="$PROJECT_DIR$/registry/node_modules" />
     <handled-path value="$PROJECT_DIR$/registry/target/aot/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1269" />
     <option name="height" value="777" />
@@ -335,46 +309,6 @@
               <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
               <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
               <item name="barbican" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@nebular" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@nebular" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@nebular" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@nebular" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
@@ -455,10 +389,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
@@ -467,11 +398,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
@@ -480,157 +408,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
               <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="global" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="global" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="global" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="global" type="462c0819:PsiDirectoryNode" />
-              <item name="maps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="global" type="462c0819:PsiDirectoryNode" />
-              <item name="tables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="global" type="462c0819:PsiDirectoryNode" />
-              <item name="typography" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="prebuilt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="prebuilt" type="462c0819:PsiDirectoryNode" />
-              <item name="cosmic.scss" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="battlements" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -648,7 +440,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="NbActionComponent&#9;null&#9;null&#10;jhi-navbar&#9;null&#9;null&#10;NbThemeService&#9;null&#9;null&#10;NbLayoutComponent&#9;null&#9;null&#10;NbTheme&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="nb-theme&#9;null&#9;null&#10;NbActionComponent&#9;null&#9;null&#10;jhi-navbar&#9;null&#9;null&#10;NbThemeService&#9;null&#9;null&#10;NbLayoutComponent&#9;null&#9;null&#10;NbTheme&#9;null&#9;null" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.ts&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/pages-menu.ts&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/navbar/navbar.scss&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/main/main.component.html" />
   </component>
@@ -771,15 +563,15 @@
       <workItem from="1520657169009" duration="365000" />
       <workItem from="1520709438765" duration="20361000" />
       <workItem from="1520744154766" duration="2916000" />
-      <workItem from="1520819366834" duration="56016000" />
+      <workItem from="1520819366834" duration="57534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105202000" />
+    <option name="totallyTimeSpent" value="106720000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1269" height="777" extended-state="1" />
+    <frame x="0" y="23" width="1269" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -909,85 +701,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/_badge.component.theme.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-283">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.module.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.module.metadata.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="100" column="37" lean-forward="true" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#157#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1107,22 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/themes/_default.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="423" column="2" lean-forward="true" selection-start-line="423" selection-start-column="2" selection-end-line="423" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/themes/_cosmic.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1407">
-          <caret line="141" column="2" lean-forward="true" selection-start-line="141" selection-start-column="2" selection-end-line="141" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/prebuilt/default.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1137,14 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/prebuilt/cosmic.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1335,6 +1024,108 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/_card.component.theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/prebuilt/cosmic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="0" column="12999" lean-forward="false" selection-start-line="0" selection-start-column="12999" selection-end-line="0" selection-end-column="12999" />
+          <folding>
+            <element signature="e#134081#139154#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/prebuilt/cosmic.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/themes/_cosmic.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2009">
+          <caret line="141" column="2" lean-forward="true" selection-start-line="141" selection-start-column="2" selection-end-line="141" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/themes/_default.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6125">
+          <caret line="423" column="2" lean-forward="true" selection-start-line="423" selection-start-column="2" selection-end-line="423" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/theme.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-485">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/pace.theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/themes.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/theme.default.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/theme.cosmic.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="72" column="26" lean-forward="true" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
           <folding />
         </state>
       </provider>

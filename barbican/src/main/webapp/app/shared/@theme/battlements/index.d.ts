@@ -3,8 +3,8 @@
  * Copyright Akveo. All Rights Reserved.
  * Licensed under the MIT License. See License.txt in the project root for license information.
  */
-export * from './theme.options';
-export * from './theme.module';
+export * from './battlements.options';
+export * from './battlements.module';
 export * from './services/theme.service';
 export * from './services/spinner.service';
 export * from './services/breakpoints.service';

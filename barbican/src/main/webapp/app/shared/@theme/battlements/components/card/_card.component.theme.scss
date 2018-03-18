@@ -4,8 +4,8 @@
  * Licensed under the MIT License. See License.txt in the project root for license information.
  */
 
-@mixin nb-card-header() {
-  padding: nb-theme(card-padding);
+@mixin bs-card-header() {
+  padding: bs-theme(card-padding);
   border-bottom: 1px solid nb-theme(card-separator);
   border-top-left-radius: nb-theme(card-border-radius);
   border-top-right-radius: nb-theme(card-border-radius);
