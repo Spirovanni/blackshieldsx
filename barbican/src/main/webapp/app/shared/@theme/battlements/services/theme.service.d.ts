@@ -5,13 +5,13 @@
  */
 import { ComponentFactory, ComponentFactoryResolver, Type } from '@angular/core';
 import { Observable } from 'rxjs/Observable';
-import { NbJSThemeOptions } from './js-themes/theme.options';
-import { NbJSThemesRegistry } from './js-themes-registry.service';
-import { NbMediaBreakpointsService, NbMediaBreakpoint } from './breakpoints.service';
+import { BsJSThemeOptions } from './js-themes/theme.options';
+import { BsJSThemesRegistry } from './js-themes-registry.service';
+import { BsMediaBreakpointsService, BsMediaBreakpoint } from './breakpoints.service';
 /**
  * Main Nebular service. Includes various helper methods.
  */
-export declare class NbThemeService {
+export declare class BsThemeService {
     protected options: any;
     private breakpointService;
     private jsThemesRegistry;
@@ -23,7 +23,7 @@ export declare class NbThemeService {
     private appendLayoutClass$;
     private removeLayoutClass$;
     private changeWindowWidth$;
-    constructor(options: any, breakpointService: NbMediaBreakpointsService, jsThemesRegistry: NbJSThemesRegistry, componentFactoryResolver: ComponentFactoryResolver);
+    constructor(options: any, breakpointService: BsMediaBreakpointsService, jsThemesRegistry: BsJSThemesRegistry, componentFactoryResolver: ComponentFactoryResolver);
     changeTheme(name: string): void;
     changeWindowWidth(width: number): void;
     appendToLayoutTop<T>(entity: Type<T> | ComponentFactory<T>): Observable<any>;
@@ -33,7 +33,7 @@ export declare class NbThemeService {
      *
      * @returns {Observable<NbJSThemeOptions>}
      */
-    getJsTheme(): Observable<NbJSThemeOptions>;
+    getJsTheme(): Observable<BsJSThemeOptions>;
     clearLayoutTop(): Observable<any>;
     /**
      * Triggers media query breakpoint change
@@ -43,7 +43,7 @@ export declare class NbThemeService {
      * ```
      * @returns {Observable<[NbMediaBreakpoint, NbMediaBreakpoint]>}
      */
-    onMediaQueryChange(): Observable<NbMediaBreakpoint[]>;
+    onMediaQueryChange(): Observable<BsMediaBreakpoint[]>;
     onThemeChange(): Observable<any>;
     onAppendToTop(): Observable<any>;
     onClearLayoutTop(): Observable<any>;

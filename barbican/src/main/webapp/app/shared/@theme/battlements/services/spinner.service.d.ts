@@ -1,7 +1,7 @@
 /**
  * Service to control the global page spinner.
  */
-export declare class NbSpinnerService {
+export declare class BsSpinnerService {
     private document;
     private loaders;
     private selector;

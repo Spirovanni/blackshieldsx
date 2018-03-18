@@ -12,12 +12,12 @@
 
 @import 'typography/typography';
 
-@mixin nb-theme-overrides() {
-  @include nb-typography();
+@mixin bs-theme-overrides() {
+  @include bs-typography();
 
-  @include nb-bootstrap-theme();
-  @include nb-components-tree-theme();
-  @include nb-maps-leaflet-theme();
-  @include nb-tables-smart-table-theme();
-  @include nb-components-toaster-theme();
+  @include bs-bootstrap-theme();
+  @include bs-components-tree-theme();
+  @include bs-maps-leaflet-theme();
+  @include bs-tables-smart-table-theme();
+  @include bs-components-toaster-theme();
 }

@@ -9,19 +9,19 @@
     color: bs-theme(badge-fg-text);
 
     &.bs-badge-primary {
-      background-color: nb-theme(badge-primary-bg-color);
+      background-color: bs-theme(badge-primary-bg-color);
     }
     &.bs-badge-info {
-      background-color: nb-theme(badge-info-bg-color);
+      background-color: bs-theme(badge-info-bg-color);
     }
     &.bs-badge-success {
-      background-color: nb-theme(badge-success-bg-color);
+      background-color: bs-theme(badge-success-bg-color);
     }
     &.bs-badge-warning {
-      background-color: nb-theme(badge-warning-bg-color);
+      background-color: bs-theme(badge-warning-bg-color);
     }
     &.bs-badge-danger {
-      background-color: nb-theme(badge-danger-bg-color);
+      background-color: bs-theme(badge-danger-bg-color);
     }
   }
 }

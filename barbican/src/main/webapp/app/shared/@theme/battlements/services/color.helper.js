@@ -1,13 +1,13 @@
-var NbColorHelper = /** @class */ (function () {
-    function NbColorHelper() {
+var BsColorHelper = /** @class */ (function () {
+    function BsColorHelper() {
     }
-    NbColorHelper.shade = function (color, weight) {
-        return NbColorHelper.mix('#000000', color, weight);
+    BsColorHelper.shade = function (color, weight) {
+        return BsColorHelper.mix('#000000', color, weight);
     };
-    NbColorHelper.tint = function (color, weight) {
-        return NbColorHelper.mix('#ffffff', color, weight);
+    BsColorHelper.tint = function (color, weight) {
+        return BsColorHelper.mix('#ffffff', color, weight);
     };
-    NbColorHelper.mix = function (color1, color2, weight) {
+    BsColorHelper.mix = function (color1, color2, weight) {
         var d2h = function (d) { return d.toString(16); };
         var h2d = function (h) { return parseInt(h, 16); };
         var result = '#';
@@ -19,7 +19,7 @@ var NbColorHelper = /** @class */ (function () {
         }
         return result;
     };
-    NbColorHelper.hexToRgbA = function (hex, alpha) {
+    BsColorHelper.hexToRgbA = function (hex, alpha) {
         var c;
         if (/^#([A-Fa-f0-9]{3}){1,2}$/.test(hex)) {
             c = hex.substring(1).split('');
@@ -31,7 +31,7 @@ var NbColorHelper = /** @class */ (function () {
         }
         throw new Error('Bad Hex');
     };
-    return NbColorHelper;
+    return BsColorHelper;
 }());
-export { NbColorHelper };
+export { BsColorHelper };
 //# sourceMappingURL=color.helper.js.map

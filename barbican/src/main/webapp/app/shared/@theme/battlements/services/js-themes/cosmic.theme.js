@@ -1,4 +1,4 @@
-import { NbColorHelper } from '../color.helper';
+import { BsColorHelper } from '../color.helper';
 var palette = {
     primary: '#7659ff',
     success: '#00d977',
@@ -22,11 +22,11 @@ export var COSMIC_THEME = {
         info: palette.info,
         warning: palette.warning,
         danger: palette.danger,
-        primaryLight: NbColorHelper.tint(palette.primary, 20),
-        successLight: NbColorHelper.tint(palette.success, 20),
-        infoLight: NbColorHelper.tint(palette.info, 20),
-        warningLight: NbColorHelper.tint(palette.warning, 20),
-        dangerLight: NbColorHelper.tint(palette.danger, 20),
+        primaryLight: BsColorHelper.tint(palette.primary, 20),
+        successLight: BsColorHelper.tint(palette.success, 20),
+        infoLight: BsColorHelper.tint(palette.info, 20),
+        warningLight: BsColorHelper.tint(palette.warning, 20),
+        dangerLight: BsColorHelper.tint(palette.danger, 20),
     },
 };
 //# sourceMappingURL=cosmic.theme.js.map

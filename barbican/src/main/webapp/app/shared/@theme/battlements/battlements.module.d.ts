@@ -4,7 +4,7 @@
  * Licensed under the MIT License. See License.txt in the project root for license information.
  */
 import { ModuleWithProviders } from '@angular/core';
-import { NbThemeOptions } from './theme.options';
+import { NbThemeOptions } from './battlements.options';
 import { NbJSThemeOptions } from './services/js-themes/theme.options';
 import { NbMediaBreakpoint } from './services/breakpoints.service';
 export declare class NbThemeModule {

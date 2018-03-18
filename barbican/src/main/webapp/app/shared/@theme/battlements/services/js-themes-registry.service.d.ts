@@ -1,12 +1,12 @@
-import { NbJSThemeOptions } from './js-themes/theme.options';
+import { BsJSThemeOptions } from './js-themes/theme.options';
 export declare const BUILT_IN_THEMES: NbJSThemeOptions[];
 /**
  * Js Themes registry - provides access to the JS themes' variables.
  * Usually shouldn't be used directly, but through the NbThemeService class methods (getJsTheme).
  */
-export declare class NbJSThemesRegistry {
+export declare class BsJSThemesRegistry {
     private themes;
-    constructor(builtInThemes: NbJSThemeOptions[], newThemes?: NbJSThemeOptions[]);
+    constructor(builtInThemes: BsJSThemeOptions[], newThemes?: BsJSThemeOptions[]);
     /**
      * Registers a new JS theme
      * @param config any
@@ -25,7 +25,7 @@ export declare class NbJSThemesRegistry {
      * @param themeName
      * @returns NbJSThemeOptions
      */
-    get(themeName: string): NbJSThemeOptions;
+    get(themeName: string): BsJSThemeOptions;
     private combineByNames(newThemes, oldThemes);
     private isObject(item);
     private mergeDeep(target, ...sources);

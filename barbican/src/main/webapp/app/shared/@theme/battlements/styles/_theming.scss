@@ -54,14 +54,14 @@ $bs-themes-export: () !global;
   @return $theme;
 }
 
-@function nb-register-theme($theme, $name, $default: null) {
+@function bs-register-theme($theme, $name, $default: null) {
 
   $theme-data: ();
 
 
   @if ($default != null) {
 
-    $theme: map-merge(map-get($nb-themes-non-processed, $default), $theme);
+    $theme: map-merge(map-get($bs-themes-non-processed, $default), $theme);
     $bs-themes-non-processed: map-set($bs-themes-non-processed, $name, $theme) !global;
 
     $theme-data: map-set($theme-data, data, $theme);
@@ -88,7 +88,7 @@ $bs-themes-export: () !global;
   $themes-to-install: ();
 
   @if (length($bs-enabled-themes) > 0) {
-    @each $theme-name in $nb-enabled-themes {
+    @each $theme-name in $bs-enabled-themes {
       $themes-to-install: map-set($themes-to-install, $theme-name, map-get($bs-themes, $theme-name));
     }
   } @else {
@@ -112,7 +112,7 @@ $bs-themes-export: () !global;
   $themes-to-install: get-enabled-themes();
 
   @each $theme-name, $theme in $themes-to-install {
-    :host-context(.nb-theme-#{$theme-name}) {
+    :host-context(.bs-theme-#{$theme-name}) {
       $theme: set-global-theme-vars($theme, $theme-name);
       @content;
     }
@@ -135,16 +135,16 @@ $bs-themes-export: () !global;
 @mixin bs-install-root-component() {
   @warn '`bs-install-root-component` is depricated, replace with `bs-install-component`, as `body` is root element now';
 
-  @include nb-install-component() {
+  @include bs-install-component() {
     @content;
   }
 }
 
-@mixin nb-install-global() {
+@mixin bs-install-global() {
   $themes-to-install: get-enabled-themes();
 
   @each $theme-name, $theme in $themes-to-install {
-    .nb-theme-#{$theme-name} {
+    .bs-theme-#{$theme-name} {
       $theme: set-global-theme-vars($theme, $theme-name);
       @content;
     }

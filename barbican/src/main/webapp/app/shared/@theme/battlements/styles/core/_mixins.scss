@@ -26,7 +26,7 @@
   scrollbar-track-color: $bg;
 }
 
-@mixin nb-radial-gradient($color-1, $color-2, $color-3) {
+@mixin bs-radial-gradient($color-1, $color-2, $color-3) {
   background: $color-2; /* Old browsers */
   background: -moz-radial-gradient(bottom, ellipse cover, $color-1 0%,
                                                           $color-2 45%,
@@ -181,7 +181,7 @@
   @include keyframes(btn-#{$name}-pulse) {
     0% {
       box-shadow: none;
-      opacity: nb-theme(btn-disabled-opacity);
+      opacity: bs-theme(btn-disabled-opacity);
     }
     50% {
       box-shadow: 0 0 1rem 0 $color;
@@ -189,7 +189,7 @@
     }
     100% {
       box-shadow: none;
-      opacity: nb-theme(btn-disabled-opacity);
+      opacity: bs-theme(btn-disabled-opacity);
     }
   }
 }

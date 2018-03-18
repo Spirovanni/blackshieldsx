@@ -1,4 +1,4 @@
-import { NbColorHelper } from '../color.helper';
+import { BsColorHelper } from '../color.helper';
 var palette = {
     primary: '#8a7fff',
     success: '#40dc7e',
@@ -23,11 +23,11 @@ export var DEFAULT_THEME = {
         info: palette.info,
         warning: palette.warning,
         danger: palette.danger,
-        primaryLight: NbColorHelper.tint(palette.primary, 15),
-        successLight: NbColorHelper.tint(palette.success, 15),
-        infoLight: NbColorHelper.tint(palette.info, 15),
-        warningLight: NbColorHelper.tint(palette.warning, 15),
-        dangerLight: NbColorHelper.tint(palette.danger, 15),
+        primaryLight: BsColorHelper.tint(palette.primary, 15),
+        successLight: BsColorHelper.tint(palette.success, 15),
+        infoLight: BsColorHelper.tint(palette.info, 15),
+        warningLight: BsColorHelper.tint(palette.warning, 15),
+        dangerLight: BsColorHelper.tint(palette.danger, 15),
     },
 };
 //# sourceMappingURL=default.theme.js.map

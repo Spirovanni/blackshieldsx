@@ -424,4 +424,4 @@ $theme: (
 );
 
 // register the theme
-$nb-themes: nb-register-theme($theme, default);
+$bs-themes: bs-register-theme($theme, default);

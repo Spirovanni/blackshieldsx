@@ -1,2 +1,2 @@
-import { NbJSThemeOptions } from './theme.options';
-export declare const DEFAULT_THEME: NbJSThemeOptions;
+import { BsJSThemeOptions } from './theme.options';
+export declare const DEFAULT_THEME: BsJSThemeOptions;

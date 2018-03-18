@@ -4,7 +4,7 @@
  * Licensed under the MIT License. See License.txt in the project root for license information.
  */
 import { Inject, Injectable } from '@angular/core';
-import { nbMediaBreakpointsToken } from '../theme.options';
+import { bsBuiltInJSThemesToken } from '../battlements.options';
 export var DEFAULT_MEDIA_BREAKPOINTS = [
     {
         name: 'xs',
@@ -45,8 +45,8 @@ export var DEFAULT_MEDIA_BREAKPOINTS = [
  * Provides access to available media breakpoints to convert window width to a configured breakpoint,
  * e.g. 200px - *xs* breakpoint
  */
-var NbMediaBreakpointsService = /** @class */ (function () {
-    function NbMediaBreakpointsService(breakpoints) {
+var BsMediaBreakpointsService = /** @class */ (function () {
+    function BsMediaBreakpointsService(breakpoints) {
         this.breakpoints = breakpoints;
         this.breakpointsMap = this.breakpoints.reduce(function (res, b) {
             res[b.name] = b.width;
@@ -63,7 +63,7 @@ var NbMediaBreakpointsService = /** @class */ (function () {
        * @param width number
        * @returns {Z|{name: string, width: number}}
        */
-    NbMediaBreakpointsService.prototype.getByWidth = /**
+     BsMediaBreakpointsService.prototype.getByWidth = /**
        * Returns a configured breakpoint by width
        * @param width number
        * @returns {Z|{name: string, width: number}}
@@ -87,7 +87,7 @@ var NbMediaBreakpointsService = /** @class */ (function () {
        * @param name string
        * @returns NbMediaBreakpoint
        */
-    NbMediaBreakpointsService.prototype.getByName = /**
+    BsMediaBreakpointsService.prototype.getByName = /**
        * Returns a configured breakpoint by name
        * @param name string
        * @returns NbMediaBreakpoint
@@ -105,7 +105,7 @@ var NbMediaBreakpointsService = /** @class */ (function () {
        * Returns a list of configured breakpoints for the theme
        * @returns NbMediaBreakpoint[]
        */
-    NbMediaBreakpointsService.prototype.getBreakpoints = /**
+    BsMediaBreakpointsService.prototype.getBreakpoints = /**
        * Returns a list of configured breakpoints for the theme
        * @returns NbMediaBreakpoint[]
        */
@@ -120,21 +120,21 @@ var NbMediaBreakpointsService = /** @class */ (function () {
        * Returns a map of configured breakpoints for the theme
        * @returns {[p: string]: number}
        */
-    NbMediaBreakpointsService.prototype.getBreakpointsMap = /**
+    BsMediaBreakpointsService.prototype.getBreakpointsMap = /**
        * Returns a map of configured breakpoints for the theme
        * @returns {[p: string]: number}
        */
     function () {
         return this.breakpointsMap;
     };
-    NbMediaBreakpointsService.decorators = [
+    BsMediaBreakpointsService.decorators = [
         { type: Injectable },
     ];
     /** @nocollapse */
-    NbMediaBreakpointsService.ctorParameters = function () { return [
+    BsMediaBreakpointsService.ctorParameters = function () { return [
         { type: undefined, decorators: [{ type: Inject, args: [nbMediaBreakpointsToken,] },] },
     ]; };
-    return NbMediaBreakpointsService;
+    return BsMediaBreakpointsService;
 }());
-export { NbMediaBreakpointsService };
+export { BsMediaBreakpointsService };
 //# sourceMappingURL=breakpoints.service.js.map

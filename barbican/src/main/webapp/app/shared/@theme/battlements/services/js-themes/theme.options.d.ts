@@ -1,8 +1,8 @@
-export interface NbJSThemeOptions {
+export interface BsJSThemeOptions {
     name: string;
     base?: string;
-    variables?: NbJSThemeVariable;
+    variables?: BsJSThemeVariable;
 }
-export interface NbJSThemeVariable {
-    [key: string]: string | string[] | NbJSThemeVariable;
+export interface BsJSThemeVariable {
+    [key: string]: string | string[] | BsJSThemeVariable;
 }
