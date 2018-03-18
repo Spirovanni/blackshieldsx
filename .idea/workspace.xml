@@ -2,8 +2,310 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f700c9f-77b5-4a17-afd2-4b097304b4ba" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/bundles/theme.umd.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/_actions.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/actions/actions.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/_badge.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/_card.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/card.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/card.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/card.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/card.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/card.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/card.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/card.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/card.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/card.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/card.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/flip-card/_flip-card.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/flip-card/flip-card.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/flip-card/flip-card.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/flip-card/flip-card.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/flip-card/flip-card.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/flip-card/flip-card.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/flip-card/flip-card.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/reveal-card/_reveal-card.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/reveal-card/reveal-card.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/reveal-card/reveal-card.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/reveal-card/reveal-card.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/reveal-card/reveal-card.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/reveal-card/reveal-card.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/reveal-card/reveal-card.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/shared/shared.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/shared/shared.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/shared/shared.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/shared/shared.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/checkbox/_checkbox.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/checkbox/checkbox.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/checkbox/checkbox.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/checkbox/checkbox.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/checkbox/checkbox.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/checkbox/checkbox.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/checkbox/checkbox.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/checkbox/checkbox.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/checkbox/checkbox.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/_context-menu.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.directive.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.directive.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.directive.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.directive.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/context-menu/context-menu.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/helpers.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/helpers.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/helpers.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/_layout.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/layout.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/layout.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/layout.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/layout.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/layout.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/layout.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/layout.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/layout.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/layout.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/layout/layout.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/_menu.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu-item.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.service.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.service.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.service.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/menu/menu.service.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/_popover.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/adjustment.helper.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/adjustment.helper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/adjustment.helper.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/adjustment.helper.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/model.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/model.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/model.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/model.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/positioning.helper.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/positioning.helper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/positioning.helper.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/positioning.helper.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/trigger.helper.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/trigger.helper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/trigger.helper.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/helpers/trigger.helper.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.directive.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.directive.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.directive.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.directive.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/popover/popover.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/_route-tabset.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/route-tabset.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/route-tabset.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/route-tabset.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/route-tabset.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/route-tabset.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/route-tabset.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/route-tabset.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/route-tabset.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/route-tabset.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/route-tabset/route-tabset.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/_search.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.service.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.service.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.service.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/search.service.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.column-curtain.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.column-curtain.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.curtain.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.curtain.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.layout-rotate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.layout-rotate.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.modal-drop.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.modal-drop.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.modal-half.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.modal-half.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.modal-move.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.modal-move.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.modal-zoomin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.modal-zoomin.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/search/styles/search.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/shared/shared.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/shared/shared.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/shared/shared.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/shared/shared.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/_sidebar.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.service.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.service.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.service.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/sidebar/sidebar.service.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/_tabset.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/tabset.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/tabset.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/tabset.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/tabset.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/tabset.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/tabset.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/tabset.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/tabset.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/tabset.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/tabset/tabset.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/_user.component.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.component.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.component.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.component.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.component.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.module.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.module.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.module.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/user/user.module.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/index.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/breakpoints.service.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/breakpoints.service.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/breakpoints.service.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/breakpoints.service.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/color.helper.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/color.helper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/color.helper.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/color.helper.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes-registry.service.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes-registry.service.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes-registry.service.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes-registry.service.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/cosmic.theme.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/default.theme.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/js-themes/theme.options.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/spinner.service.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/spinner.service.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/spinner.service.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/spinner.service.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/theme.service.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/theme.service.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/theme.service.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/services/theme.service.metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/_all.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/_component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/_globals.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/_themes.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/_theming.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/core/_functions.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/core/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/_components.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/_overrides.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_bootstrap.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_breakpoints.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_button-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_custom-forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_default-buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_default-form-control.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_dropdowns.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_hero-buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_icon-buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_input-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_modals.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_outline-buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_shape-buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_size-buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/bootstrap/_size-form-control.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/components/_toaster.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/components/_tree.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/maps/_leaflet.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/tables/_smart-table.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/global/typography/_typography.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/prebuilt/cosmic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/prebuilt/cosmic.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/prebuilt/default.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/prebuilt/default.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/themes/_cosmic.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/styles/themes/_default.scss" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,62 +314,98 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="user.component.html" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/user.component.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-77">
+                    <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="26" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="user.component.d.ts" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/user.component.d.ts">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="180">
+                    <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="_user.component.theme.scss" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/_user.component.theme.scss">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="277">
+                    <caret line="24" column="51" lean-forward="false" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="_context-menu.component.theme.scss" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/context-menu/_context-menu.component.theme.scss">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="0">
+                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="context-menu.component.scss" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/context-menu/context-menu.component.scss">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-297">
+                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="user.component.d.ts" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/user.component.d.ts">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="243">
+                    <caret line="96" column="61" lean-forward="true" selection-start-line="96" selection-start-column="61" selection-end-line="96" selection-end-column="61" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="navbar.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="20" column="86" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="93" />
+            <state relative-caret-position="212">
+              <caret line="167" column="8" lean-forward="false" selection-start-line="167" selection-start-column="8" selection-end-line="167" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/theme.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="58" column="20" lean-forward="false" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.route.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/app.route.ts">
+      <file leaf-file-name="user.component.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/user.component.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -76,21 +414,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pages-menu.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/pages-menu.ts">
+      <file leaf-file-name="navbar.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2475">
-              <caret line="165" column="2" lean-forward="false" selection-start-line="165" selection-start-column="2" selection-end-line="165" selection-end-column="2" />
+            <state relative-caret-position="-1593">
+              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.ts">
+      <file leaf-file-name="battlements.options.d.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-215">
-              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="battlements.options.metadata.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.metadata.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -175,7 +525,6 @@
     <handled-path value="$PROJECT_DIR$/registry/target/aot/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1920" />
     <option name="y" value="23" />
     <option name="width" value="1269" />
     <option name="height" value="777" />
@@ -209,6 +558,46 @@
               <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
               <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
               <item name="barbican" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@nebular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@nebular" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@nebular" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@nebular" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
@@ -292,20 +681,7 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="shared" type="462c0819:PsiDirectoryNode" />
               <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="@theme" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="theme-switcher" type="462c0819:PsiDirectoryNode" />
+              <item name="battlements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
@@ -325,29 +701,6 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
-              <item name="barbican" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -368,6 +721,11 @@
     <property name="SearchEverywhereHistoryKey" value="jhi-navbar&#9;null&#9;null&#10;NbThemeService&#9;null&#9;null&#10;NbLayoutComponent&#9;null&#9;null&#10;NbTheme&#9;null&#9;null" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.ts&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/pages-menu.ts&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/navbar/navbar.scss&#10;/Users/professorx/dev/blackshieldsx/barbican/src/main/webapp/app/layouts/main/main.component.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -483,15 +841,15 @@
       <workItem from="1520657169009" duration="365000" />
       <workItem from="1520709438765" duration="20361000" />
       <workItem from="1520744154766" duration="2916000" />
-      <workItem from="1520819366834" duration="35994000" />
+      <workItem from="1520819366834" duration="47399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85180000" />
+    <option name="totallyTimeSpent" value="96585000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="23" width="1269" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1269" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -508,7 +866,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1581092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25346375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -615,180 +973,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#65#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/shared.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@core/utils/.gitkeep">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@core/utils/analytics.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@core/module-import-guard.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@core/data/electricity.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="1" lean-forward="false" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@core/data/player.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@core/data/smart-table.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6450">
-          <caret line="430" column="1" lean-forward="false" selection-start-line="430" selection-start-column="1" selection-end-line="430" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@core/data/users.services.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@core/data/data.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#62#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/components/theme-settings/theme-settings.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/components/search-input/search-input.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/components/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="54" lean-forward="false" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/components/theme-switcher/theme-switcher.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/components/theme-switcher/theme-switcher.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#50#0" expanded="false" />
-            <marker date="1520834717000" expanded="true" signature="408:686" ph="..." />
-            <marker date="1520834717000" expanded="true" signature="474:632" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@core/core.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#82#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/components/theme-settings/theme-settings.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-            <marker date="1520834707000" expanded="true" signature="278:522" ph="..." />
-            <marker date="1520834707000" expanded="true" signature="319:511" ph="..." />
-            <marker date="1520834707000" expanded="true" signature="574:825" ph="..." />
-            <marker date="1520834707000" expanded="true" signature="617:814" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/components/search-input/search-input.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1030,24 +1214,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/theme.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1056,11 +1222,202 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#57#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/user.component.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/user.module.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/user.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/context-menu/context-menu.component.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/_user.component.theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="24" column="51" lean-forward="false" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/context-menu/_context-menu.component.theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/context-menu/context-menu.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/popover/popover.component.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-670">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#157#226#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/context-menu/context-menu.directive.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-880">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#157#245#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="20" column="86" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="93" />
+        <state relative-caret-position="212">
+          <caret line="167" column="8" lean-forward="false" selection-start-line="167" selection-start-column="8" selection-end-line="167" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/user.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.module.metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.module.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1593">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/user.component.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/components/user/user.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

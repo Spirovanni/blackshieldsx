@@ -1,6 +1,69 @@
 @import '../../../content/scss/theme/styles/themes';
 @import '~bootstrap/scss/mixins/breakpoints';
 @import '~@nebular/theme/styles/global/bootstrap/breakpoints';
+
+/* ==========================================================================
+Navbar
+========================================================================== */
+@mixin nb-user-theme() {
+    .dropdown-menu {
+
+        font-size: nb-theme(user-font-size);
+        line-height: nb-theme(user-line-height);
+
+        .user-picture {
+            height: nb-theme(user-size-medium);
+            width: nb-theme(user-size-medium);
+            background: nb-theme(user-bg);
+            border: solid 2px nb-theme(user-fg-highlight);
+
+            &.background {
+                color: nb-theme(user-fg);
+            }
+        }
+
+        .user-name {
+            font-family: nb-theme(user-font-family-secondary);
+        }
+
+        &.inverse {
+            .user-picture {
+                background: nb-theme(user-fg);
+
+                &.background {
+                    color: nb-theme(user-bg);
+                }
+            }
+        }
+
+        &.small {
+            .user-picture {
+                height: nb-theme(user-size-small);
+                width: nb-theme(user-size-small);
+                font-size: 80%;
+            }
+        }
+        &.medium {
+            .user-picture {
+                height: nb-theme(user-size-medium);
+                width: nb-theme(user-size-medium);
+            }
+        }
+        &.large {
+            .user-picture {
+                height: nb-theme(user-size-large);
+                width: nb-theme(user-size-large);
+            }
+        }
+        &.xlarge {
+            .user-picture {
+                height: nb-theme(user-size-xlarge);
+                width: nb-theme(user-size-xlarge);
+            }
+        }
+    }
+}
+
 /* ==========================================================================
 Navbar
 ========================================================================== */
