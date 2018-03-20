@@ -30,10 +30,11 @@
             <li *ngSwitchCase="true" ngbDropdown class="nav-item dropdown pointer" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
                 <a class="nav-link dropdown-toggle" ngbDropdownToggle href="javascript:void(0);" id="entity-menu">
                     <span>
-                        <i class="fa fa-th-list" aria-hidden="true"></i>
-                        <span jhiTranslate="global.menu.entities.main">
-                            Entities
-                        </span>
+                        <nb-action class="control-item" icon="nb-keypad" aria-hidden="true"></nb-action>
+                        <!--<i class="fa fa-th-list" aria-hidden="true"></i>-->
+                        <!--<span jhiTranslate="global.menu.entities.main">-->
+                            <!--Entities-->
+                        <!--</span>-->
                     </span>
                 </a>
                 <ul class="dropdown-menu" ngbDropdownMenu>
@@ -43,8 +44,7 @@
             <li *jhiHasAnyAuthority="'ROLE_ADMIN'" ngbDropdown class="nav-item dropdown pointer" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
                 <a class="nav-link dropdown-toggle" ngbDropdownToggle href="javascript:void(0);" id="admin-menu">
                     <span>
-                        <i class="fa fa-user-plus" aria-hidden="true"></i>
-                        <span jhiTranslate="global.menu.admin.main">Administration</span>
+                        <nb-action class="control-item" icon="nb-gear" aria-hidden="true"></nb-action>
                     </span>
                 </a>
                 <ul class="dropdown-menu" ngbDropdownMenu>
@@ -108,7 +108,7 @@
                 </a>
                 <ul class="dropdown-menu" ngbDropdownMenu *ngIf="languages.length > 1">
                     <li *ngFor="let language of languages">
-                        <a class="dropdown-item" [jhiActiveMenu]="language" href="javascript:void(0);" (click)="changeLanguage(language);collapseNavbar();">{{language | findLanguageFromKey}}</a>
+                        <a class="dropdown-item" [jhiActiveMenu]="language" href="javascript:void(0);" (click)="changeLanguage(language);collapseNavbar();"><i class="fa fa-flag" aria-hidden="true"></i>  {{language | findLanguageFromKey}}</a>
                     </li>
                 </ul>
             </li>
@@ -116,7 +116,7 @@
                 <a class="nav-link dropdown-toggle" ngbDropdownToggle href="javascript:void(0);" id="account-menu">
                     <span *ngIf="!getImageUrl()">
                     <!--<i class="fa fa-user" aria-hidden="true"></i>-->
-                        <nb-action class="control-item" icon="nb-gear" aria-hidden="true"></nb-action>
+                        <nb-action class="control-item" icon="nb-person" aria-hidden="true"></nb-action>
                     </span>
                     <span *ngIf="getImageUrl()">
                       <img [src]="getImageUrl()" class="profile-image img-circle" alt="Avatar">
@@ -143,13 +143,13 @@
                     </li>
                     <li *ngSwitchCase="false">
                         <a class="dropdown-item" (click)="login()" id="login">
-                            <i aria-hidden="true"></i>
+                            <i class="fa fa-fw fa-sign-in" aria-hidden="true"></i>
                             <span jhiTranslate="global.menu.account.login">Sign in</span>
                         </a>
                     </li>
                     <li *ngSwitchCase="false">
                         <a class="dropdown-item" routerLink="register" routerLinkActive="active" (click)="collapseNavbar()">
-                            <i aria-hidden="true"></i>
+                            <i class="fa fa-fw fa-user-plus" aria-hidden="true"></i>
                             <span jhiTranslate="global.menu.account.register">Register</span>
                         </a>
                     </li>
