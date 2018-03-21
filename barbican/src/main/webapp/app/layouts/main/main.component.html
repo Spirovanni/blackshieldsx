@@ -1,7 +1,7 @@
 <nb-layout [center]="layout.id === 'center-column'" [windowMode]="">
 
-    <jhi-page-ribbon></jhi-page-ribbon>
     <nb-layout-header fixed>
+        <jhi-page-ribbon></jhi-page-ribbon>
         <jhi-navbar [position]="sidebar.id === 'left' ? 'normal': 'inverse'">
             <router-outlet name="navbar"></router-outlet>
         </jhi-navbar>
@@ -14,7 +14,7 @@
                 [right]="sidebar.id === 'right'">
         <nb-sidebar-header>
             <a href="#" class="btn btn-hero-success main-btn">
-                <i class="fa fa-shield"></i> <span>Black Shields</span>
+                <i class="fa fa-shield"></i> <span>The Armory</span>
             </a>
         </nb-sidebar-header>
             <nb-menu [items]="menu"></nb-menu>
