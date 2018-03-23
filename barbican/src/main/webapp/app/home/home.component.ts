@@ -28,6 +28,7 @@ export class HomeComponent implements OnInit {
             this.account = account;
         });
         this.registerAuthenticationSuccess();
+
     }
 
     registerAuthenticationSuccess() {
@@ -45,4 +46,5 @@ export class HomeComponent implements OnInit {
     login() {
         this.modalRef = this.loginModalService.open();
     }
+
 }

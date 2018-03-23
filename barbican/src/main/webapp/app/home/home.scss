@@ -43,6 +43,13 @@ Splash page styles
 
 
 /*---Firefox Bug Fix --*/
+ngb-carousel .img {
+    position: center;
+    background-size: contain;
+    width: 100%;
+    height: 60%;
+}
+
 .carousel-item {
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
