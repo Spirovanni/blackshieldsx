@@ -4,6 +4,7 @@ import { CarouselComponent } from './carousel/carousel.component';
 import { BarbicanSharedModule, ThemeModule } from '../shared';
 
 import { HOME_ROUTE, HomeComponent } from './';
+import { HeroComponent } from './hero/hero.component';
 
 @NgModule({
     imports: [
@@ -13,7 +14,8 @@ import { HOME_ROUTE, HomeComponent } from './';
     ],
     declarations: [
         HomeComponent,
-        CarouselComponent
+        CarouselComponent,
+        HeroComponent
     ],
     entryComponents: [
     ],
