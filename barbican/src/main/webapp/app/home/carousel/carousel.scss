@@ -22,7 +22,7 @@ ngb-carousel .img {
     height: 60%;
 }
 
-.carousel-item {
+.img-responsive {
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
     transition: transform 0.5s ease, -webkit-transform 0.5s ease;
@@ -45,7 +45,7 @@ figure {
     height: 100%;
 }
 #fixed {
-    background-image: url('./../../content/images/mac.png');
+    background-image: url('./../../../content/images/mac.png');
     position: fixed;
     display: block;
     top: 0;
