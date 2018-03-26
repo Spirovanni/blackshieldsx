@@ -1,24 +1,46 @@
-<ngb-carousel *ngIf="images">
-    <ng-template ngbSlide>
-        <img [src]="images[0]" alt="Random first slide" class="img-responsive">
-        <div class="carousel-caption">
-            <h1>BUILD SHIELDS</h1>
-            <h3>Protect your future through a success driven mindset!</h3>
-            <button type="button" class="btn btn-hero-primary btn-dark">Get Started</button>
-        </div>
-    </ng-template>
-    <ng-template ngbSlide>
-        <img [src]="images[1]"  alt="Random second slide" class="img-responsive">
-        <div class="carousel-caption">
-            <h1>GET AMP'D</h1>
-            <h3>Get Active! Get Motivated! Get Passionate!</h3>
-        </div>
-    </ng-template>
-    <ng-template ngbSlide>
-        <img [src]="images[2]" alt="Random third slide" class="img-responsive">
-        <div class="carousel-caption">
-            <h1>SLAY BOTS!</h1>
-            <h3>Future proof your PASSION!</h3>
-        </div>
-    </ng-template>
-</ngb-carousel>
+<div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-xxxl-9 padding">
+        <!--<nb-card>-->
+            <ngb-carousel *ngIf="images">
+                <ng-template ngbSlide>
+                    <img [src]="images[0]" alt="Random first slide" class="img-responsive">
+                    <div class="carousel-caption">
+                        <h1>BUILD SHIELDS</h1>
+                        <h3>Protect your future through a success driven mindset!</h3>
+                        <br>
+                        <button type="button" class="btn btn-hero-primary btn-dark">Begin Building</button>
+                    </div>
+                </ng-template>
+                <ng-template ngbSlide>
+                    <img [src]="images[1]"  alt="Random second slide" class="img-responsive">
+                    <div class="carousel-caption">
+                        <h1>Increase Your A.M.P.'s</h1>
+                        <h3>Get <strong>A</strong>CTIVE! Get MOTIVATED! Get PASSIONATE!</h3>
+                        <br>
+                        <button type="button" class="btn btn-hero-primary btn-default">Get AMP'd!</button>
+                    </div>
+                </ng-template>
+                <ng-template ngbSlide>
+                    <img [src]="images[2]" alt="Random third slide" class="img-responsive">
+                    <div class="carousel-caption">
+                        <h1>SLAY BOTS!</h1>
+                        <h3>Future proof your PASSION!</h3>
+                        <br>
+                        <button type="button" class="btn btn-hero-primary btn-default">SLAY Today!</button>
+                    </div>
+                </ng-template>
+            </ngb-carousel>
+        <!--</nb-card>-->
+    </div>
+
+    <div class="col-xs-12 col-sm-12 col-md-12 col-xxxl-3 padding">
+        <nb-card>
+            <nb-card-body class="intro_story">
+                <span>On the corner of Blackstone Avenue and Shields Ave in Fresno, California is an Old American mall in reconstruction.  Just like that mall fighting to find its way in the new economy is a group of designers, developers and all around go-getters looking to find their own way.
+            This is the home of the new guild model that guided and built economies of old America.  This is the Black Shields Guild and we are looking to help you find your way through the new economy!</span>
+                <br>
+                <button type="button" class="btn btn-hero-info btn-dark">Join Guild</button>
+            </nb-card-body>
+        </nb-card>
+    </div>
+</div>
