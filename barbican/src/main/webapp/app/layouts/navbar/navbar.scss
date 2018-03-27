@@ -252,3 +252,107 @@ Logo styles
         }
     }
 }
+
+/* Navbar */
+
+.navbar-dark .navbar-nav .nav-link{
+    color: rgba(255, 255, 255, 0.65);
+    font-size: 0.9375rem;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus{
+    color: #fff;
+}
+
+.navbar-brand{
+    text-shadow: 2px 2px 3px;
+    font-size: 1.625rem;
+    color: #fff;
+}
+
+.brand-logo{
+    width: 1.625rem;
+    margin-top: -5px;
+    z-index: 1;
+}
+
+.fa-linkedin-square:hover{
+    color: #337ab7;
+}
+
+.fa-facebook-square:hover{
+    color: #3b5998;
+}
+
+.fa-twitter-square:hover{
+    color: #0084b4;
+}
+
+.navbar .active{
+    border-bottom: 2px solid #d73a8a !important;
+}
+
+.navbar{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.navbar-dark{
+    background-color: transparent;
+}
+.navbar-dark .navbar-nav .nav-link, .navbar-dark .navbar-brand{
+    color: #FFF;
+}
+.navbar-dark .navbar-toggler{
+    border-color: #FFF;
+}
+.navbar-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-light{
+    background-color: #FFF;
+    box-shadow: 2px 2px 15px 2px;
+}
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-brand{
+    color: #000;
+}
+.navbar-light .navbar-toggler{
+    border-color: #7F7F7F;
+}
+
+@media (max-width: 768px) {
+    html{
+        max-width: 100% !important;
+        overflow-x: hidden !important;
+    }
+    .navbar-brand{
+        padding-left: 15px !important;
+    }
+    h1{
+        font-size: 1.5rem;
+    }
+}
+
+@media (width: 768px) {
+    .pt-max{
+        padding-top: 50% !important;
+    }
+}
+
+@media (width: 1024px) {
+    .pt-max{
+        padding-top: 50% !important;
+    }
+}
+
+@media (max-width: 766px) {
+    .navbar-collapse{
+        color: #000;
+        background-color: #fff;
+        padding: 15px;
+    }
+    .navbar-collapse a{
+        color: #000 !important;
+    }
+}
+

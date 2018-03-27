@@ -2,13 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f700c9f-77b5-4a17-afd2-4b097304b4ba" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/js/vendor/granim.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/js/vendor/granim.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/js/vendor/jquery-2.2.4.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/js/vendor/scroll.js" />
-      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/index.html" />
-      <change beforePath="$PROJECT_DIR$/barbican/yarn.lock" afterPath="$PROJECT_DIR$/barbican/yarn.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/home/apex.main.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/apex.main.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/arrow-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/arrow-right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/fav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/gallary-3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/icon-9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/img-parallax.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/logo-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/logo-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/logo-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/logo-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/logo-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/logo-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/logo-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/logo-8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/mockup-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/mockup-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/photo-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/photo-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/photo-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/photo-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-16.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-17.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-18.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/content/images/img/project-9.jpg" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.scss" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.scss" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+      <change beforePath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" afterPath="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,26 +76,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_theming.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/styles/_theming.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="91" column="8" lean-forward="false" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
-              <caret line="89" column="78" lean-forward="false" selection-start-line="89" selection-start-column="78" selection-end-line="89" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/barbican/package.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+            <state relative-caret-position="275">
+              <caret line="75" column="16" lean-forward="false" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -62,8 +99,70 @@
       <file leaf-file-name="main.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+            <state relative-caret-position="205">
+              <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="23" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.component.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apex.main.component.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/apex.main.component.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5719">
+              <caret line="509" column="0" lean-forward="false" selection-start-line="509" selection-start-column="0" selection-end-line="509" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3878">
+              <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -81,36 +180,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap 4 Site Starter Files/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="6" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="12" lean-forward="false" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carousel.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/home/carousel/carousel.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -124,8 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.module.js" />
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/_badge.component.theme.scss" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/badge/badge.component.css" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.module.d.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/battlements.options.d.ts" />
@@ -158,11 +225,8 @@
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/index.d.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements/components/card/_card.component.theme.scss" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/content/scss/theme/styles/themes.scss" />
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" />
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/pages-menu.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/i18n/en/global.json" />
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html" />
         <option value="$PROJECT_DIR$/Bootstrap 4 Site Starter Files/index.html" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.module.ts" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.component.ts" />
@@ -171,10 +235,15 @@
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/home/hero/hero.component.html" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/home/carousel/carousel.scss" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/home/carousel/carousel.component.html" />
-        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.scss" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/barbican/package.json" />
         <option value="$PROJECT_DIR$/barbican/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.scss" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/apex.main.component.scss" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html" />
+        <option value="$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.scss" />
       </list>
     </option>
   </component>
@@ -250,7 +319,83 @@
             <path>
               <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
               <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="navbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="barbican" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
               <item name="Bootstrap 4 Site Starter Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackshieldsx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackshieldsx" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap 4 Site Starter Files" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,8 +418,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/barbican/src/main/webapp/app" />
+      <recent name="$PROJECT_DIR$/barbican/src/main/webapp/app/home" />
       <recent name="$PROJECT_DIR$/barbican/src/main/webapp/content/images" />
+      <recent name="$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main" />
+      <recent name="$PROJECT_DIR$/barbican/src/main/webapp/app" />
       <recent name="$PROJECT_DIR$/barbican/src/main/webapp/app/shared/@theme/battlements" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -404,15 +551,16 @@
       <workItem from="1521692540866" duration="31117000" />
       <workItem from="1521987332281" duration="6793000" />
       <workItem from="1522012740030" duration="11401000" />
-      <workItem from="1522096152849" duration="4943000" />
+      <workItem from="1522096152849" duration="11729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206031000" />
+    <option name="totallyTimeSpent" value="212817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="23" width="1049" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -424,7 +572,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36115327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36115327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -570,27 +718,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/styles/core/_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2537">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/styles/global/_components.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/styles/global/_overrides.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/barbican/node_modules/@nebular/theme/styles/global/bootstrap/_breakpoints.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-167">
@@ -623,13 +750,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6150">
           <caret line="410" column="8" lean-forward="false" selection-start-line="410" selection-start-column="0" selection-end-line="412" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2625">
-          <caret line="175" column="28" lean-forward="false" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -672,13 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="32" column="71" lean-forward="false" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="71" />
         </state>
       </provider>
     </entry>
@@ -800,6 +914,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="17" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="422" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -835,6 +950,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -876,14 +992,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="12" lean-forward="false" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1335">
@@ -900,20 +1008,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/barbican/node_modules/granim/dist/granim.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -938,8 +1038,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        <state relative-caret-position="275">
+          <caret line="75" column="16" lean-forward="false" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3878">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/main.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/layouts/main/apex.main.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5719">
+          <caret line="509" column="0" lean-forward="false" selection-start-line="509" selection-start-column="0" selection-end-line="509" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barbican/src/main/webapp/app/home/home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
