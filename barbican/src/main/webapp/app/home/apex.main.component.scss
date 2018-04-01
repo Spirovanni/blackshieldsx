@@ -319,7 +319,7 @@ td, th {
 }
 
 .purchase-bg{
-  background-image: url("../../../content/images/img/gallary-3.jpg");
+  background-image: url("../../content/images/img/gallary-3.jpg");
   z-index: -100;
   position: absolute;
   top: 0;
@@ -347,7 +347,7 @@ td, th {
 
 .parallax {
     /* The image used */
-    background-image: url("../../../content/images/img/img-parallax.png");
+    background-image: url("../../content/images/img/img-parallax.png");
 
     /* Set a specific height */
     min-height: 450px;
@@ -423,14 +423,14 @@ h3.headline:after {
 }
 
 .carousel-prev-icon {
-  background-image: url("../../../content/images/img/arrow-left.png");
+  background-image: url("../../content/images/img/arrow-left.png");
   width:1.875rem;
   height: 1.875rem;
   background-size: 100% 100%
 }
 
 .carousel-next-icon {
-  background-image: url("../../../content/images/img/arrow-right.png");
+  background-image: url("../../content/images/img/arrow-right.png");
   width:1.875rem;
   height: 1.875rem;
   background-size: 100% 100%
@@ -503,7 +503,7 @@ h3.headline:after {
 /* Everything */
 
 .everything{
-  background-image: url("../../../content/images/img/gallary-3.jpg");
+  background-image: url("../../content/images/img/gallary-3.jpg");
   max-width: 100%;
   max-height: 100%;
 }

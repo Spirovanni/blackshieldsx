@@ -16,6 +16,8 @@ eg $input-color: red;
 // Theme styles
 @import '~ionicons-inline/dist/ionicons';
 @import 'node_modules/ionicons-inline/dist/ionicons';
+@import '~typeface-exo/index.css';
+@import '~pace-js/templates/pace-theme-flash.tmpl.css';
 @import "node_modules/@nebular/theme/styles/prebuilt/default.scss";
 @import "node_modules/@nebular/theme/styles/prebuilt/cosmic.scss";
 @import "~typeface-exo/index.css";

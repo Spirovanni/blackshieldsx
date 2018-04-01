@@ -1,6 +1,8 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Router, ActivatedRouteSnapshot, NavigationEnd } from '@angular/router';
 import { MENU_ITEMS } from './../pages-menu';
+// import * as $ from 'jquery';
+import 'granim';
 
 import {
     NbMediaBreakpoint,
@@ -117,6 +119,27 @@ export class JhiMainComponent implements OnInit, OnDestroy {
                 this.jhiLanguageHelper.updateTitle(this.getPageTitle(this.router.routerState.snapshot.root));
             }
         });
+
+        // $(document).ready(function () {
+        //     $(window).scroll(function () {
+        //         let scroll = $(window).scrollTop();
+        //         if (scroll > 100) {
+        //             $('.navbar').removeClass('navbar-dark').addClass('navbar-light');
+        //             $('.navbar .navbar-brand img').attr('src', 'img/fav.png');
+        //         }
+        //
+        //         else {
+        //             $('.navbar').removeClass('navbar-light').addClass('navbar-dark');
+        //             $('.navbar .navbar-brand img').attr('src', 'img/logo.png');
+        //         }
+        //     })
+        // })
+        //
+        // $(".navbar a").on("click", function () {
+        //     $(".navbar").find(".active").removeClass("active");
+        //     $(this).parent().addClass("active");
+        // });
+
     }
 
     ngOnDestroy() {
